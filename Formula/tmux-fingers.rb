@@ -3,10 +3,10 @@
 class TmuxFingers < Formula
   desc "mouseless terminal interaction"
   homepage "https://github.com/morantron/tmux-fingers"
-  url "https://github.com/Morantron/tmux-fingers/archive/2.0.0-alpha3.tar.gz"
+  url "https://github.com/Morantron/tmux-fingers/archive/refs/tags/2.0.0.tar.gz"
 
   # run `brew fetch coveralls` to check SHA256
-  sha256 "bbfc26d63477599a5e64161ba10fada5e7e9676a2e097d70a4a4871a2cab9811"
+  sha256 "802c6be5ead722c5689a8fe559af0464b8ca6dfc040ed8d608038e66e31a2d15"
   license "MIT"
 
   # use :build, so if there's a bottle it will be used
